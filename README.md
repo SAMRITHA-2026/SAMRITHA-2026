@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SAMRITHA-2026
 - 👀 I’m interested in data scientist profession 
 - 🌱 I’m currently learning for it hardly with my efforts 
-- 💞️ I’m looking to collaborate on many top companies
-- 📫 How to reach me 
+- 🏢 I’m looking to collaborate on many top companies
+- 🐾 How to reach me 
 samrithasenthil2004@gmail.com
 
 <!---
