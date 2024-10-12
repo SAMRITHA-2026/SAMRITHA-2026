@@ -1,4 +1,4 @@
-# *Hi, I'm Samritha* 👋🏻 👩🏻‍💻
+# **Hi, I'm Samritha** 👋🏻 👩🏻‍💻
 
 ### Languages
 
