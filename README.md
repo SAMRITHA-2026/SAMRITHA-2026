@@ -32,6 +32,14 @@ Aspiring Data Analytics
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![GitHub][https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white]
+![Git][https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white]
+![Apache][https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white]
+![MySQL][https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white]
+![HTML5][https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white]
+![CSS3][https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white]
+![Google Cloud][https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white]
 
 
 
