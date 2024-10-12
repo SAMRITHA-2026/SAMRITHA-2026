@@ -8,8 +8,8 @@ Aspiring Data Analytics
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)]([https://www.linkedin.com/in/sy-rashid/](https://www.linkedin.com/in/samritha-s-5a04b4253/))
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:samrithasenthil2004@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-samritha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/sy-rashid/](https://www.linkedin.com/in/samritha-s-5a04b4253/))]([(https://www.linkedin.com/in/samritha-s-5a04b4253/)])
+  [![Gmail Badge](https://img.shields.io/badge/-samrithasenthil2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samrithasenthil2004@gmail.com)](mailto:samrithasenthil2004@gmail.com)
 </div>
 <br>
 
@@ -34,7 +34,3 @@ Aspiring Data Analytics
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=SAMRITHA-2026&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMRITHA-2026&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Samritha's github stats](https://github-readme-stats.vercel.app/api?username=SAMRITHA-2026&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMRITHA-2026&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/SAMRITHA-2026/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAMRITHA-2026&theme=dark)](https://git.io/streak-stats)
