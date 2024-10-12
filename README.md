@@ -9,7 +9,7 @@ Aspiring Data Analytics
 <div align="center">
   [![Gmail Badge](https://img.shields.io/badge/-samrithasenthil2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samrithasenthil2004@gmail.com)](mailto:samrithasenthil2004@gmail.com)
 </div>
-<br>
+
 
 ### Languages
 
