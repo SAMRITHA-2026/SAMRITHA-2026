@@ -8,6 +8,10 @@ I embarked on my journey as an Artificial Intelligence & Data Science student at
 Aspiring Data Analytics
 </p>
 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
+
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-samritha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samritha-s-5a04b4253/)](https://www.linkedin.com/in/samritha-s-5a04b4253/)
