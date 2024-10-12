@@ -1,5 +1,5 @@
 <!-- code gif-->
-<img align="center" alt="video/mp4" src=".profile/.mp4" width="500" height="320" />
+<img align="center" alt="video/mp4" src="./profile.mp4" width="500" height="320" />
 
 <h1 align="center"> 👋🏻 👩🏻‍💻 Hello! I'm Samritha </h1>
 
