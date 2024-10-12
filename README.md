@@ -11,9 +11,8 @@ Aspiring Data Analytics
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-samritha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samritha-s-5a04b4253/)](https://www.linkedin.com/in/samritha-s-5a04b4253/)
-  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
   [![Gmail Badge](https://img.shields.io/badge/-samrithasenthil2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samrithasenthil2004@gmail.com)](mailto:samrithasenthil2004@gmail.com)
-  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+
 </div>
 
 ### Languages
