@@ -1,7 +1,7 @@
-<!-- code gif-->
-<img align="center" alt="video/mp4" src="./profile.mp4" width="500" height="320" />
-
 <h1 align="center"> 👋🏻 👩🏻‍💻 Hello! I'm Samritha </h1>
+
+
+<img align="center" alt="video/mp4" src="./profile.mp4" width="500" height="320" />
 
 <p align="center">
 I embarked on my journey as an Artificial Intelligence & Data Science student at Kumaraguru College of Technology with a fervent passion for innovation and excellence. 🚀 Driven by a meticulous and pre-planned approach, I place immense value on precision and strive for perfection in every endeavor. 🎯 As an undergraduate with burgeoning technical acumen, I am continuously honing my skills to make significant contributions to the ever-evolving realm of technology. 💻 For me, learning is an unending adventure, and I am perpetually on a quest to explore, understand, and master new frontiers. 🌟
