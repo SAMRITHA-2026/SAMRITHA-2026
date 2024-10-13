@@ -2,9 +2,6 @@
   <img src="https://raw.github.com/SAMRITHA-2026/SAMRITHA-2026/master/name.png" alt="Name" />
 </h1>
 
-<h1 align="center">  Hello! I'm Samritha 👋🏻 👩🏻‍💻 </h1>
-
-<!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 <p align="center">
