@@ -1,5 +1,6 @@
-
-<img align="center" alt="GIF" src="./name.gif" width="500" height="320" />
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.gif" alt="Name" />
+</h1>
 
 <h1 align="center">  Hello! I'm Samritha 👋🏻 👩🏻‍💻 </h1>
 
