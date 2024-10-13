@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.github.com/SAMRITHA-2026/SAMRITHA-2026/master/name.gif" alt="Name" />
+  <img src="https://raw.github.com/SAMRITHA-2026/SAMRITHA-2026/master/name.png" alt="Name" />
 </h1>
 
 <h1 align="center">  Hello! I'm Samritha 👋🏻 👩🏻‍💻 </h1>
