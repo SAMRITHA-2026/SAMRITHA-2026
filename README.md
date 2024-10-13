@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://raw.github.com/SAMRITHA-2026/SAMRITHA-2026/master/name.png" alt="Name" />
 </h1>
-
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 <p align="center">
