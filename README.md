@@ -42,8 +42,7 @@ Aspiring Data Analytics
 
 | Leetcode Stats | Badges |
 | --- | --- |
-| ![](https://leetcard.jacoblin.cool/SAMRITHA-2026?theme=dark,unicorn&width=200&height=200)
-| ![](https://leetcode-badge-showcase.vercel.app/api?username=SAMRITHA-2026&theme=nightowl&animated=true) |
+| ![](https://leetcard.jacoblin.cool/SAMRITHA-2026?theme=dark,unicorn&width=200&height=200) | | ![](https://leetcode-badge-showcase.vercel.app/api?username=SAMRITHA-2026&theme=nightowl&animated=true) |
 
 
 
