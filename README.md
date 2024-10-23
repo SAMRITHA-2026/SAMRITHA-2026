@@ -46,3 +46,4 @@ Aspiring Data Analytics
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<samrithasess6q>)](<https://www.geeksforgeeks.org/user/samrithasess6q>)
 
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<samrithasess6q>)](https://auth.geeksforgeeks.org/user/<samrithasess6q>/practice/)
