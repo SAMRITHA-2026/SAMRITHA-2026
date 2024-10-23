@@ -42,7 +42,7 @@ Aspiring Data Analytics
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=SAMRITHA-2026&theme=nightowl&animated=true" alt="LeetCode Badges"/>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/SAMRITHA-2026)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SAMRITHA-2026)](https://leetcode.com/SAMRITHA-2026)
 
 
 
