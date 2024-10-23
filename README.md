@@ -34,7 +34,7 @@ Aspiring Data Analytics
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=SAMRITHA-2026&animated=true)
 
 | Github Stats | Top Languages |
 | --- | --- |
