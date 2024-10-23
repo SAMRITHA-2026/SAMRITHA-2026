@@ -44,5 +44,5 @@ Aspiring Data Analytics
 | --- | --- |
 | ![](https://leetcard.jacoblin.cool/SAMRITHA-2026?theme=dark,unicorn) | ![](https://leetcode-badge-showcase.vercel.app/api?username=SAMRITHA-2026&theme=nightowl&animated=true) |
 
-
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<samrithasess6q>)](<https://www.geeksforgeeks.org/user/samrithasess6q>)
 
