@@ -49,9 +49,3 @@ Aspiring Data Analytics
 <p align="center"> <a href="https://www.geeksforgeeks.org/user/samrithasess6q/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=samrithasess6q" alt="GFG stats"/></a></p>
 
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/samrithasess6q/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=samrithasess6q&theme=unicorn" alt="GFG stats"/>
-  </a>
-</p>
-
