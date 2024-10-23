@@ -34,12 +34,11 @@ Aspiring Data Analytics
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=SAMRITHA-2026&animated=true)
-
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=SAMRITHA-2026&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMRITHA-2026&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
+### Leetcode Status
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=SAMRITHA-2026&theme=nightowl&animated=true" alt="LeetCode Badges"/>
 
