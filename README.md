@@ -41,5 +41,4 @@ Aspiring Data Analytics
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=SAMRITHA-2026&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMRITHA-2026&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
-[![LeetCode Stats](https://leetcard.leetcode.com/SAMRITHA-2026?theme=unicorn&extension=activity)](https://leetcard.leetcode.com/SAMRITHA-2026?theme=unicorn&extension=activity)
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={SAMRITHA-2026}&animated=true" alt="LeetCode Badges"/>
