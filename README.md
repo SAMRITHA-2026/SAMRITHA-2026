@@ -49,3 +49,6 @@ Aspiring Data Analytics
 <p align="center"> <a href="https://www.geeksforgeeks.org/user/samrithasess6q/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=samrithasess6q" alt="GFG stats"/></a></p>
 
 
+<img src="[https://example.com/path/to/your/badge.png](https://www.credly.com/earner/earned/badge/3cd5e57f-c8a0-48b1-b268-17aae7f35b75)" alt="Badge Title" width="100" height="100">
+
+
