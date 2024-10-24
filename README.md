@@ -11,7 +11,7 @@ Aspiring Data Analytics
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAMRITHA-2026" alt="profileviews" />
+  
   [![Linkedin Badge](https://img.shields.io/badge/-samritha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samritha-s-5a04b4253/)](https://www.linkedin.com/in/samritha-s-5a04b4253/)
   [![Gmail Badge](https://img.shields.io/badge/-samrithasenthil2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samrithasenthil2004@gmail.com)](mailto:samrithasenthil2004@gmail.com)
 
