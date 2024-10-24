@@ -9,6 +9,8 @@ I embarked on my journey as an Artificial Intelligence & Data Science student at
 Aspiring Data Analytics
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=SAMRITHA-2026" alt="profileviews" />
+
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-samritha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samritha-s-5a04b4253/)](https://www.linkedin.com/in/samritha-s-5a04b4253/)
