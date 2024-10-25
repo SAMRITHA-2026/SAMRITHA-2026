@@ -41,7 +41,7 @@ Aspiring Data Analytics
 
 <br/><br/><br/>
  <p align="center">
-  height="170px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Umadevi-R" alt="GitHub Stats" /> <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umadevi-R" alt="GitHub Stats" /> <br/><br/>
 </p>
 
 ### Leetcode Status
