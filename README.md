@@ -20,54 +20,6 @@
 
 </div>
 
-### Linkedin Profile
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Badge</title>
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-    <style>
-        /* Background Styling */
-        body {
-            background: linear-gradient(135deg, #003366, #004488, #0055AA);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        /* Badge Container Styling */
-        .badge-wrapper {
-            background: linear-gradient(135deg, #002B5C, #004C99);
-            padding: 15px;
-            border-radius: 15px;
-            box-shadow: 0px 4px 15px rgba(0, 153, 255, 0.6);
-            display: inline-block;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="badge-wrapper">
-        <!-- LinkedIn Profile Badge -->
-        <div class="badge-base LI-profile-badge" 
-            data-locale="en_US" 
-            data-size="large" 
-            data-theme="dark" 
-            data-type="HORIZONTAL" 
-            data-vanity="samritha-s-5a04b4253" 
-            data-version="v1">
-            <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/samritha-s-5a04b4253?trk=profile-badge">Samritha S</a>
-        </div>
-    </div>
-
-</body>
-</html>
-
 
 ### Languages
 
