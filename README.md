@@ -66,44 +66,6 @@
 
 ### Linkedin Profile
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Profile Badge</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #121212;
-            margin: 0;
-        }
-        .badge-container {
-            text-align: center;
-            padding: 20px;
-            background: #1e1e1e;
-            border-radius: 10px;
-            box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.1);
-        }
-    </style>
-</head>
-<body>
-    <div class="badge-container">
-        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-        <div class="badge-base LI-profile-badge" 
-             data-locale="en_US" 
-             data-size="large" 
-             data-theme="dark" 
-             data-type="HORIZONTAL" 
-             data-vanity="samritha-s-5a04b4253" 
-             data-version="v1">
-            <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/samritha-s-5a04b4253?trk=profile-badge">Samritha S</a>
-        </div>
-    </div>
-</body>
-</html>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="samritha-s-5a04b4253" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/samritha-s-5a04b4253?trk=profile-badge">Samritha S</a></div>
+              
 
