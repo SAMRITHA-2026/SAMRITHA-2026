@@ -19,6 +19,31 @@
   [![Gmail Badge](https://img.shields.io/badge/-samrithasenthil2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samrithasenthil2004@gmail.com)](mailto:samrithasenthil2004@gmail.com)
 
 </div>
+### Linkedin Profile
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Badge</title>
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+</head>
+<body>
+
+    <!-- LinkedIn Profile Badge -->
+    <div class="badge-base LI-profile-badge" 
+         data-locale="en_US" 
+         data-size="large" 
+         data-theme="dark" 
+         data-type="HORIZONTAL" 
+         data-vanity="samritha-s-5a04b4253" 
+         data-version="v1">
+        <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/samritha-s-5a04b4253?trk=profile-badge">Samritha S</a>
+    </div>
+
+</body>
+</html>
 
 ### Languages
 
@@ -64,8 +89,5 @@
 
 <p align="center"> <a href="https://www.geeksforgeeks.org/user/samrithasess6q/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=samrithasess6q" alt="GFG stats"/></a></p>
 
-### Linkedin Profile
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="samritha-s-5a04b4253" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/samritha-s-5a04b4253?trk=profile-badge">Samritha S</a></div>
               
 
