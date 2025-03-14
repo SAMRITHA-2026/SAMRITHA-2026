@@ -22,51 +22,13 @@
 
 
 ### Languages  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
-![C](https://img.shields.io/badge/-C-000?&logo=C)  
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)  
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)  
-![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3)  
-![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)  
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![C](https://img.shields.io/badge/-C-000?&logo=C) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C) ![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3) ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB) ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)  
 
 ### Technologies & Frameworks  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)  
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
-![React](https://img.shields.io/badge/-React-000?&logo=React)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  
-![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL)  
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
-![RapidMiner](https://img.shields.io/badge/-RapidMiner-000?&logo=RapidMiner)  
-![Autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=Autodesk)  
-![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-000?&logo=MIT-App-Inventor)  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![RapidMiner](https://img.shields.io/badge/-RapidMiner-000?&logo=RapidMiner) ![Autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=Autodesk) ![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-000?&logo=MIT-App-Inventor)  
 
 ### Areas of Expertise  
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=Artificial-Intelligence)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=Machine-Learning)  
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000?&logo=Deep-Learning)  
-![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-000?&logo=Neural-Networks)  
-![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-000?&logo=Reinforcement-Learning)  
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000?&logo=Computer-Vision)  
-![Exploratory Data Analysis](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-000?&logo=EDA)  
-![Data Science](https://img.shields.io/badge/-Data%20Science-000?&logo=Data-Science)  
-![Data Mining](https://img.shields.io/badge/-Data%20Mining-000?&logo=Data-Mining)  
-![Data Management](https://img.shields.io/badge/-Data%20Management-000?&logo=Data-Management)  
-![DBMS](https://img.shields.io/badge/-DBMS-000?&logo=DBMS)  
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-000?&logo=Cloud-Computing)  
-![Web Development](https://img.shields.io/badge/-Web%20Development-000?&logo=Web-Development)  
-![Full-Stack Development](https://img.shields.io/badge/-Full--Stack%20Development-000?&logo=Full-Stack-Development)  
-![Computer Networking](https://img.shields.io/badge/-Computer%20Networking-000?&logo=Computer-Networking)  
-![Object-Oriented Programming](https://img.shields.io/badge/-Object--Oriented%20Programming-000?&logo=OOP)  
-![Marketing](https://img.shields.io/badge/-Marketing-000?&logo=Marketing)  
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)  
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-000?&logo=Microsoft-Excel)  
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=Artificial-Intelligence) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=Machine-Learning) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000?&logo=Deep-Learning) ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-000?&logo=Neural-Networks) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-000?&logo=Reinforcement-Learning) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000?&logo=Computer-Vision) ![Exploratory Data Analysis](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-000?&logo=EDA) ![Data Science](https://img.shields.io/badge/-Data%20Science-000?&logo=Data-Science) ![Data Mining](https://img.shields.io/badge/-Data%20Mining-000?&logo=Data-Mining) ![Data Management](https://img.shields.io/badge/-Data%20Management-000?&logo=Data-Management) ![DBMS](https://img.shields.io/badge/-DBMS-000?&logo=DBMS) ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-000?&logo=Cloud-Computing) ![Web Development](https://img.shields.io/badge/-Web%20Development-000?&logo=Web-Development) ![Full-Stack Development](https://img.shields.io/badge/-Full--Stack%20Development-000?&logo=Full-Stack-Development) ![Computer Networking](https://img.shields.io/badge/-Computer%20Networking-000?&logo=Computer-Networking) ![Object-Oriented Programming](https://img.shields.io/badge/-Object--Oriented%20Programming-000?&logo=OOP) ![Marketing](https://img.shields.io/badge/-Marketing-000?&logo=Marketing) ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-000?&logo=Microsoft-Excel)  
 
 
 ### Github Status
