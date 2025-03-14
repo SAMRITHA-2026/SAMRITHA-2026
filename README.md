@@ -16,7 +16,7 @@
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-samritha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samritha-s-5a04b4253/)](https://www.linkedin.com/in/samritha-s-5a04b4253/)
-  [![Gmail Badge](https://img.shields.io/badge/-samrithasenthil2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samrithasenthil2004@gmail.com)](mailto:samrithasenthil2004@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-samrithasabari2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samrithasabari2004@gmail.com)](mailto:samrithasabari2004@gmail.com)
 
 </div>
 
@@ -28,6 +28,11 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
+![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 
 ### Technologies
 
